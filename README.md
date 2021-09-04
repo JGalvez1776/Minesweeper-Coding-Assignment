@@ -1,0 +1,2 @@
+# Minesweeper-Coding-Assignment
+Provided is an assignment created for an intro programming course I helped run. This assignment was targeted towards students as the last programming assignment for the semester. The class was in Python and students were expected to have no programming experience upon first taking the class. As such, the solution and assignment problems are designed to be completed by students of that skill level.
